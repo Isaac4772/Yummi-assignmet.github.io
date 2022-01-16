@@ -5,7 +5,7 @@ $(document).ready(function() {
         autoplay: true,
         autoplaySpeed: 5000, //  Slide Delay
         speed: 800, // Transition Speed
-        slidesToShow: 7, // Number Of Carousel
+        slidesToShow: 4, // Number Of Carousel
         slidesToScroll: 1, // Slide To Move 
         pauseOnHover: false,
         appendArrows: $(".category_area .arrow_container .arrows"), // Class For Arrows Buttons
